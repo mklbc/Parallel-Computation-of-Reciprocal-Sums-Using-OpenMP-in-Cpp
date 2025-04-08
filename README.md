@@ -1,0 +1,1 @@
+# Parallel-Computation-of-Reciprocal-Sums-Using-OpenMP-in-Cpp
