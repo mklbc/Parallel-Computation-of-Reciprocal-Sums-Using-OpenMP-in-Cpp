@@ -1,1 +1,1 @@
-# Parallel-Computation-of-Reciprocal-Sums-Using-OpenMP-in-Cpp
+# Parallel-Computation-of-Reciprocal-Sums-Using-OpenMP-in-Cpp[Parallel Computation of Reciprocal Sums Using OpenMP in C++.pdf](https://github.com/user-attachments/files/19738583/Parallel.Computation.of.Reciprocal.Sums.Using.OpenMP.in.C%2B%2B.pdf)
